@@ -17,7 +17,7 @@ A user-friendly desktop application to mint NFT game items on the Arbitrum block
 
 ## 🖼️ Preview
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](preview.png)
 
 ---
 
