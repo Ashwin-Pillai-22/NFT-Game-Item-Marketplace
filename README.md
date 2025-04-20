@@ -28,3 +28,26 @@ A user-friendly desktop application to mint NFT game items on the Arbitrum block
 ```bash
 git clone https://github.com/yourusername/nft-game-item-marketplace.git
 cd nft-game-item-marketplace
+```
+
+### 2. Install Dependencies
+
+Make sure you have Python 3.8+ installed.
+CustomTkinter
+web3
+
+### 3. Add your Infura Key and Private Key
+
+# config.py
+INFURA_URL = "https://arbitrum-mainnet.infura.io/v3/YOUR_INFURA_KEY"
+PRIVATE_KEY = "YOUR_PRIVATE_KEY_HERE"  # never commit this
+
+### 4. Run the App
+
+python main.py
+
+---
+### 🔐 Security Note
+
+⚠️ Never expose your private key in the code or GitHub repository. Always load it from a secure file or environment variable and keep that file excluded via .gitignore.
+
