@@ -26,7 +26,7 @@ A user-friendly desktop application to mint NFT game items on the Arbitrum block
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nft-game-item-marketplace.git
+git clone https://github.com/Ashwin-Pillai-22/nft-game-item-marketplace.git
 cd nft-game-item-marketplace
 ```
 
